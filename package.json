@@ -1,0 +1,27 @@
+{
+  "name": "practise",
+  "version": "1.0.0",
+  "description": "hw11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anton890413/practise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anton890413/practise/issues"
+  },
+  "homepage": "https://github.com/Anton890413/practise#readme",
+  "dependencies": {
+    "joi": "^17.3.0",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.12.5"
+  }
+}
